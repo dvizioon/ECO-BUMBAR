@@ -25,7 +25,7 @@ O desafio proposto pela FAPEMA foi criar uma forma de divulgar o projeto, e orga
 - **Geração de Certificados:**
 - **Integração com E-mail:**
 
-## Funcionalidades Admisnitrador
+## Funcionalidades Administrador
 - **Configuração de Email**
 - **Troca das Lives / Meet**
 - **Liberação de Certificados**
