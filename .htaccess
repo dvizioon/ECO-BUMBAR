@@ -1,0 +1,11 @@
+RewriteEngine On
+
+# Redirecionar para login.php se a URL terminar com "login"
+RewriteRule ^login$ ./Pages/login.php [L]
+
+# Redirecionar para Painel.php se a URL terminar com "painel"
+RewriteRule ^painel$ ./admin/Painel.php [L]
+
+
+
+
