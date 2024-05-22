@@ -1,6 +1,6 @@
 # EcoBumbar
 
-<img src="Assets/logo.png" alt="Logo do Evento">
+<img src="./Assets/Logo.png" alt="Logo do Evento">
 
 ![Plataforma](https://img.shields.io/badge/plataforma-linux-orange)
 ![Plataforma](https://img.shields.io/badge/plataforma-windows-blue)
@@ -33,7 +33,7 @@ O desafio proposto pela FAPEMA foi criar uma forma de divulgar o projeto, e orga
 Dentre outras funcionalidades que o sistema oferece...
 
 - ⚠️ Importante, Baixe a Versão Empacotada para que Funcione no Modo Instalador 
-> Link : https://github.com/dvizioon/SISTEMA-BIBLIOTECA/releases
+> Link : https://github.com/dvizioon/ECO-BUMBAR/releases/
 
 <table>
   <tr>
